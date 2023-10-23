@@ -5,7 +5,7 @@ Welcome to the 8-Week SQL Challenge! This project documents my journey through t
 ## Challenge Overview
 
 - **Challenge Creator**: Danny
-- **Duration**: 8 weeks (Right now on 2nd)
+- **Duration**: 8 weeks (Right now on 3rd)
 - **Tool Used**: Azure Data Studio, DB Fiddle
 - **Disclaimer**: None of the solutions are validated against the official solutions (blame my budget restrictions!). Expect some quirky queries and a bit of humor!
 
