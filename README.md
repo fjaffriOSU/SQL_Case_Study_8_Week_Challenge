@@ -1,4 +1,4 @@
-# 8-Week SQL Challenge
+# SQL Weekly Challenge
 
 Welcome to the 8-Week SQL Challenge! This project documents my journey through the challenge, where I tackled various SQL problems, from basic to advanced, and had some fun along the way.
 
